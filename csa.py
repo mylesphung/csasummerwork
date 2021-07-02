@@ -21,11 +21,11 @@ def chooseFact():
 
 ## defining the fun facts
 funFacts = {
-    "Fun Fact 1": "I play tennis",
-    "Fun Fact 2": "I worked at Yellow Door Taqueria over the summer.",
-    "Fun Fact 3": "3",
-    "Fun Fact 4": "4",
-    "Fun Fact 5": "5"
+    "- Fun Fact 1": "I have been playing tennis casually since I was a kid, but I started seriously playing in freshman year.",
+    "- Fun Fact 2": "I worked at Yellow Door Taqueria in Lower Mills over the summer. ",
+    "- Fun Fact 3": "My favorite shows are Rick and Morty, the Simpsons, and the Office.",
+    "- Fun Fact 4": "My dad was born in Vietnam, and my mom in California.",
+    "- Fun Fact 5": "My favorite food is rice."
     }
 keysList = list(funFacts.keys())
 valuesList = list(funFacts.values())
